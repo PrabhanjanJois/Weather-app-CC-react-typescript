@@ -32,7 +32,11 @@ The application has is been included with tests and the components are been run 
   \
 Have deployed this application in <b> Netlify </b>, Click the link to open the application https://splendorous-brigadeiros-d53ea5.netlify.app/
 (Some parts of the application are not working correctly in the hosted website better run by downloading the zip file)
+\
+Some of the SnapShots are as follows
 
+
+![Screenshot (71)](https://user-images.githubusercontent.com/72604642/166924465-4adc27e5-ac89-4ee0-8cf2-43564a2adf63.png)
 
 
 
