@@ -26,7 +26,7 @@ The application has is been included with tests and the components are been run 
   * Install React in your Device.
   * Download the zip file of the project and extract.
   * Open in vs-code or other editor and choose the extracted file.
-  * Run <b>npm install</b> in terminal (node modules will get instaled).
+  * Run <b>npm install</b> in terminal (node modules will get installed).
   * Run <b>npm start</b> in terminal.
   \
   \
