@@ -34,7 +34,7 @@ Have deployed this application in <b> Netlify </b>, Click the link to open the a
 (Some parts of the application are not working correctly in the hosted website better run by downloading the zip file)
 \
 \
-Some of the SnapShots are as follows
+<b>_Some of the SnapShots are as follows_</b>
 
 
 ![Screenshot (71)](https://user-images.githubusercontent.com/72604642/166924465-4adc27e5-ac89-4ee0-8cf2-43564a2adf63.png)
@@ -42,3 +42,10 @@ Some of the SnapShots are as follows
 
 
 
+![Screenshot (73)](https://user-images.githubusercontent.com/72604642/166924773-52e3c79f-c3e9-4f75-a3a4-8e2c24ebf43f.png)
+
+
+![Screenshot (72)](https://user-images.githubusercontent.com/72604642/166924836-662471d2-72e0-4838-98f0-0878e76032e0.png)
+
+
+![Screenshot (74)](https://user-images.githubusercontent.com/72604642/166924892-55d8f802-7628-4ba8-b100-56b8aefaaca8.png)
