@@ -29,7 +29,7 @@ The application has is been included with tests and the components are been run 
   * Run <b>npm install</b> in terminal (node modules will get installed).
   * Run <b>npm start</b> in terminal.
   \
-  \
+  
 
 \
 Have deployed this application in <b> Netlify </b>
