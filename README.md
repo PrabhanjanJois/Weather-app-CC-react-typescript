@@ -20,10 +20,9 @@ This Weather app displays information about:
 - Countries API
 
 The application has is been included with tests and the components are been run with the tests. The snapshots of the tests are been uploaded in the <b> SnapShots </b> folder above.
-
 \
-
 Have deployed this application in <b> Netlify </b> click the link https://splendorous-brigadeiros-d53ea5.netlify.app/
+(Some parts of the application are not working correctly in the hosted website)
 
 
 
