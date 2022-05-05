@@ -4,7 +4,7 @@ Hi I am Prabhanjan jois, I'm currently pursuing Computer Science Engineering at 
 I have been delighted to get selected for the <b>Cognitive Clouds's</b> and found these assignments quite intersting.
 \
 \
-<b>This Weather app displays information about:</b>
+<b>_This Weather app displays information about:_</b>
 * Country
 * Flag
 * Latitude/Longitude 
@@ -20,6 +20,7 @@ I have been delighted to get selected for the <b>Cognitive Clouds's</b> and foun
 - Countries API
 
 The application has is been included with tests and the components are been run with the tests. The snapshots of the tests are been uploaded in the <b> SnapShots </b> folder above.
+\
 \
 <b>_INSTALLATION/STEP-UP STEPS_:</b>
 * Install React in your Device.
