@@ -33,6 +33,7 @@ The application has is been included with tests and the components are been run 
 Have deployed this application in <b> Netlify </b>,
 
 \
+Have deployed this application in <b> Netlify </b>
 Click the link to open the application https://splendorous-brigadeiros-d53ea5.netlify.app/
 (Some parts of the application are not working correctly in the hosted website better run by downloading the zip file)
 \
