@@ -23,13 +23,11 @@ The application has is been included with tests and the components are been run 
 \
 \
 <b>_INSTALLATION/STEP-UP STEPS_:</b>
-* Install React in your Device.
-* Download the zip file of the project and extract.
-* Open in vs-code or other editor and choose the extracted file.
-* Run <b>npm install</b> in terminal (node modules will get instaled).
-* Run <b>npm start</b> in terminal.
-\
-\
+  * Install React in your Device.
+  * Download the zip file of the project and extract.
+  * Open in vs-code or other editor and choose the extracted file.
+  * Run <b>npm install</b> in terminal (node modules will get instaled).
+  * Run <b>npm start</b> in terminal.
 Have deployed this application in <b> Netlify </b> click the link https://splendorous-brigadeiros-d53ea5.netlify.app/
 \
 (Some parts of the application are not working correctly in the hosted website)
