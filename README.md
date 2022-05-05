@@ -4,11 +4,11 @@ Hi I am Prabhanjan jois, I'm currently pursuing Computer Science Engineering at 
 I have been delighted to get selected for the <b>Cognitive Clouds's</b> and found these assignments quite intersting.
 /
 This Weather app displays information about:
-*Country
-*Flag
-*Latitude/Longitude 
-*Capital Population
-*And weather of the Capital City
+* Country
+* Flag
+* Latitude/Longitude 
+* Capital Population
+* And weather of the Capital City
 
 ## Built with
 
