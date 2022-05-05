@@ -11,10 +11,17 @@ This Weather app displays information about:
 * Capital Population
 * And weather of the Capital City
 
-## Built with
+## Built using
 
-- nextjs(React)
+- Nextjs(React)
 - TypeScript
+- Material UI
 - Weather API
 - Countries API
+
+The application has is been included with tests and the components are been run with the tests. The snapshots of the tests are been uploaded in the <b> SnapShots </b> folder above.
+
+
+
+
 
