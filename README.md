@@ -19,7 +19,7 @@ I have been delighted to get selected for the <b>Cognitive Clouds's</b> and foun
 - Weather API
 - Countries API
 
-The application has is been included with tests and the components are been run with the tests. The snapshots of the tests are been uploaded in the <b> SnapShots </b> folder above.
+The application has is been included with tests and the components are been run with the <b>tests</b>. The snapshots of the tests are been uploaded in the <b> SnapShots </b> folder above.
 \
 \
 <b>_INSTALLATION/STEP-UP STEPS_:</b>
